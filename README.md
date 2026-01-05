@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an experienced SRE and DevOps Engineer, having worked for big names for over 20+ years.
+I am an experienced AI, LLM, Inference, MLOps, LLMOps, SRE and DevOps Engineer, having worked for big names for over 20+ years.
 
 I am proud to be 12x AWS, 3x Kubernetes, Jenkins, AI/ML and 50+ more
 
